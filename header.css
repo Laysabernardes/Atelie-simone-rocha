@@ -25,3 +25,9 @@
     background-color:  #363636; 
 }
     
+@media (max-width: 991px) {
+    .navbar-collapse.show {
+    overflow-y: auto;
+    max-height: calc(100vh - 60px); /* Ajuste a altura conforme necessário */
+  }
+}
