@@ -25,5 +25,5 @@ Aplicar e consolidar conceitos de **HTML, CSS, JavaScript e Bootstrap**, criando
 ---
 
 ## 📸 Prévia do Projeto
-[![Visite meu site](imagem/atelie.png)](https://laysabernardes.github.io/atelie-simone-rocha/)
+[![Visite meu site](src/imagem/atelie.png)](https://laysabernardes.github.io/atelie-simone-rocha/)
 
